@@ -33,5 +33,12 @@
     ],
     "resource_type": "iam_role",
     "tags": {}
+  },
+  "cmtr-571a41d5-task3_api-rzjh": {
+    "resource_type": "api_gateway",
+    "deploy_stage": "dev",
+    "dependencies": [],
+    "resources": {},
+    "tags": {}
   }
 }
